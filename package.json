@@ -1,0 +1,17 @@
+{
+  "name": "handy_employee_tracker",
+  "version": "1.0.0",
+  "description": "## View & Create employee records and department inventory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Hui",
+  "license": "ISC",
+  "dependencies": {
+    "asciiart-logo": "^0.2.7",
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.1.0"
+  }
+}
