@@ -1,4 +1,4 @@
-# challenge-12_handy_employee_tracker
+# Your_handy_employee_tracker
 
 This is a JavaScript source-code for a Employee Track using MySQL to provide an UI for managing staff database. The UI is a type of content management system(CMS) that run on command line input.
 The app will be using Inquirer, MySQL and console_table of NPM as dependency. The app will be invoked by using the following command:
